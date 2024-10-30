@@ -1,0 +1,11 @@
+C:\Users\1409-1\Desktop\12a\forma\forma\bin\Debug\forma.exe.config
+C:\Users\1409-1\Desktop\12a\forma\forma\bin\Debug\forma.exe
+C:\Users\1409-1\Desktop\12a\forma\forma\bin\Debug\forma.pdb
+C:\Users\1409-1\Desktop\12a\forma\forma\obj\Debug\forma.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\12a\forma\forma\obj\Debug\forma.Form1.resources
+C:\Users\1409-1\Desktop\12a\forma\forma\obj\Debug\forma.Properties.Resources.resources
+C:\Users\1409-1\Desktop\12a\forma\forma\obj\Debug\forma.SecondForm.resources
+C:\Users\1409-1\Desktop\12a\forma\forma\obj\Debug\forma.csproj.GenerateResource.cache
+C:\Users\1409-1\Desktop\12a\forma\forma\obj\Debug\forma.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\12a\forma\forma\obj\Debug\forma.exe
+C:\Users\1409-1\Desktop\12a\forma\forma\obj\Debug\forma.pdb
